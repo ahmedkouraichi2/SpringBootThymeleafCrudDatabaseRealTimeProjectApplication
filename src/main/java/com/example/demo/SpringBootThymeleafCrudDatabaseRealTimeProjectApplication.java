@@ -10,4 +10,5 @@ public class SpringBootThymeleafCrudDatabaseRealTimeProjectApplication {
 		SpringApplication.run(SpringBootThymeleafCrudDatabaseRealTimeProjectApplication.class, args);
 	}
 
+
 }
